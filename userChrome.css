@@ -11,14 +11,14 @@
 	-moz-box-ordinal-group: 2 !important;
 }
 #nav-bar {
-	margin: 8px 4vw !important;
+	margin: 0 4vw !important;
 }
 #nav-bar-customization-target {
 	margin-left: 25px !important;
 }
 .titlebar-buttonbox-container {
 	background-color: var(--uc-bg-color);
-	margin-top: -90px;
+	margin-top: -70px;
 }
 #TabsToolbar {
 	min-height: 28px !important;
