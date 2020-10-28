@@ -1,0 +1,7 @@
+#+TITLE: Readme
+
+* Firefox CSS
+
+Based on [[https://github.com/evanswa0606/firefox-simpletheme][SimpleFox]] with a few adjustments for Nord and non-mac OS.
+
+Need to find a better way..
