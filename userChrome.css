@@ -71,9 +71,6 @@
 .tab-close-button.close-icon {
 	display: none !important;
 }
-.tabbrowser-tab:hover .tab-close-button.close-icon {
-	display: block !important;
-}
 #urlbar-input {
 	text-align: center !important;
 }
