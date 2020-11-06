@@ -29,9 +29,7 @@
 .tabbrowser-tab:not([fadein]),
 #page-action-buttons,
 .titlebar-spacer,
-.tab-line,
-#tracking-protection-icon-container,
-#identity-box {
+.tab-line {
 	display: none !important;
 	border: none !important;
 }
